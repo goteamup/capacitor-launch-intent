@@ -1,6 +1,6 @@
 {
   "name": "capacitor-launch-intent",
-  "version": "0.0.1",
+  "version": "0.0.14",
   "description": "Expose Android launch intent.",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -13,7 +13,7 @@
   "author": "TeamUp",
   "license": "MIT",
   "dependencies": {
-    "@capacitor/core": "latest"
+    "@capacitor/core": "^1.0.0-beta.17"
   },
   "devDependencies": {
     "typescript": "^2.6.2"

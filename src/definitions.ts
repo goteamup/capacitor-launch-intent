@@ -1,9 +1,9 @@
 declare global {
   interface PluginRegistry {
-    LaunchIntentPlugin?: LaunchIntentPluginPlugin;
+    LaunchIntent?: LaunchIntentPlugin;
   }
 }
 
-export interface LaunchIntentPluginPlugin {
+export interface LaunchIntentPlugin {
   getLaunchIntentExtras(): Promise<any>;
 }
