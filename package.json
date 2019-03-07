@@ -1,6 +1,6 @@
 {
   "name": "capacitor-launch-intent",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Expose Android launch intent.",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
