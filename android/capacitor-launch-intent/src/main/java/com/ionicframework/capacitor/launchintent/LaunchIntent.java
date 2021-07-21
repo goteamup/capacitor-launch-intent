@@ -6,7 +6,7 @@ import com.getcapacitor.Plugin;
 import com.getcapacitor.PluginCall;
 import com.getcapacitor.PluginMethod;
 import android.os.Bundle;
-import android.os.Intent;
+import android.content.Intent;
 
 @NativePlugin()
 public class LaunchIntent extends Plugin {
